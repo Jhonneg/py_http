@@ -111,13 +111,3 @@ Each Jupyter notebook in this repository serves as a self-contained lesson demon
 
 *   **Purpose**: This lesson demonstrates the power of the Whisper model for audio processing. It covers two main functionalities: transcribing spoken audio into text and translating spoken audio from one language (e.g., German) to another (English).
 *   **Summary**: Explore how to accurately convert speech to text and perform language translations on audio files using the Whisper API.
-
-## Security Considerations
-
--   **Never commit your  file or any sensitive credentials to version control.** The  file is already configured to prevent this.
--   Always treat your API keys as confidential information.
-
-## Notes
-
--   The provided notebooks are minimal examples intended for educational purposes and quick experimentation.
--   Feel free to adapt the Python version and package installations to suit your specific development environment.
